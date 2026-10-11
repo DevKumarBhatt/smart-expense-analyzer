@@ -153,4 +153,15 @@ Transactions and budgets are stored in a local SQLite database. Do not upload yo
 
 
 Built as a personal finance and Python development project.
+## 🚀 Live Demo
+
+**Try the app:** https://smart-expense-analyzer-devkumarbhatt.streamlit.app/
+
+A personal finance dashboard built with Python, Streamlit, Pandas, Plotly, and SQLite.
+
+### Features
+- Track income and expenses
+- Visualize spending with charts
+- Manage monthly budgets
+- Export transactions to CSV
 
